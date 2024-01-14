@@ -19,6 +19,8 @@
     caprine-bin
     d-spy
     easyeffects
+    vscode.fhs
+    direnv
     github-desktop
     gimp
     transmission_4-gtk

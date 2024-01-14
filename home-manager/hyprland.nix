@@ -56,7 +56,7 @@ in
       };
 
       input = {
-        kb_layout = "hu";
+        kb_layout = "us";
         kb_model = "pc104";
         follow_mouse = 1;
         touchpad = {
