@@ -27,7 +27,7 @@
 
   outputs = { home-manager, nixpkgs, ... }@inputs:
   let
-    username = "huuhait";
+    username = "sabin";
     system = "x86_64-linux";
   in
   {
