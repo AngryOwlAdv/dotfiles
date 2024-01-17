@@ -19,12 +19,7 @@
     };
   };
 
-  # virtualisation
-  programs.virt-manager.enable = true;
-  virtualisation = {
-    podman.enable = true;
-    libvirtd.enable = true;
-  };
+
 
   # dconf
   programs.dconf.enable = true;
